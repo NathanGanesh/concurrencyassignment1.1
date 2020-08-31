@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="process">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/timer/process.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

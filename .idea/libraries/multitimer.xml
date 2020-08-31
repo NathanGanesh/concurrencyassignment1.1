@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="multitimer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multitimer/out/artifacts/multitimer_jar/multitimer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
